@@ -6,7 +6,7 @@ This repository contains the presentation slides, the excercises, and the handou
 - handouts
   - rmarkdown-reference.pdf
   - Git-Cheat-Sheet-pdf-v2.png
- - excercise
+- excercise
   - Excercise.rtf
   - excercise.Rmd
   - bibliography.bib
